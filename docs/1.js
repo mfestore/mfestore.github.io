@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmicrofrontend_store=self.webpackChunkmicrofrontend_store||[]).push([[1],[,(e,n,r)=>{r.r(n),r.d(n,{default:()=>c});var t=r(950),o=r.n(t);const c=function(){return o().createElement("div",null,"Hello Im an MFE coming from MFE Store project")}}]]);

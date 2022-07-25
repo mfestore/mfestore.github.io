@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmicrofrontend_store=self.webpackChunkmicrofrontend_store||[]).push([[122],{122:(r,n,t)=>{function e(){return e=Object.assign?Object.assign.bind():function(r){for(var n=1;n<arguments.length;n++){var t=arguments[n];for(var e in t)Object.prototype.hasOwnProperty.call(t,e)&&(r[e]=t[e])}return r},e.apply(this,arguments)}t.d(n,{Z:()=>e})}}]);
